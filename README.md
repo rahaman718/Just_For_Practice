@@ -11,3 +11,9 @@ hopefully I will be able to do the git pull and push on my onw
 but still need a lot of practice
 
 
+
+woooooow finaly i was able to do the git push via command prompt 
+
+sned this message please 
+thanks!!!
+
